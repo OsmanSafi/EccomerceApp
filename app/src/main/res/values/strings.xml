@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">The 6</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account_nsign_up_below">Dont Have An Account? \nSign Up Below</string>
+    <string name="the_6">The 6</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="search">Search</string>
+    <string name="order_history">Order History</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="admin">Admin</string>
+    <string name="logout">Logout</string>
+    <string name="ovo">OvO</string>
+    <string name="order_log">Order Log</string>
+    <string name="go_back">go back</string>
+    <string name="buy">Buy</string>
+    <string name="add_product">Add Product</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="remove_user">Remove User</string>
+    <string name="order">Order</string>
+    <string name="enter_username_product_name">Enter Username/Product name</string>
+    <string name="number">number</string>
+    <string name="name">name</string>
+    <string name="price">price</string>
+    <string name="quantity">quantity</string>
+    <string name="productname">productname</string>
+    <string name="ordernumber">ordernumber</string>
+
+
+</resources>
